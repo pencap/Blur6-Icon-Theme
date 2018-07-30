@@ -1,5 +1,5 @@
-Blur6 Icon Theme actions
-=====================
+Blur6 Icon Theme
+================
 
 My Icon mix of Antü-Classic, Antü, Breeze, Infinity, La Capitaine, Breeze with La Capitaine apps icons and Deepin icon Theme.
 
