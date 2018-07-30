@@ -1,5 +1,5 @@
-Blur6 Icon Theme actions
-========================
+actions
+=======
 
 **Infinity**
 
@@ -28,7 +28,7 @@ git: [https://github.com/keeferrourke/la-capitaine-icon-theme](https://github.co
 git: [https://github.com/keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme)
 
 ___
-# List of used Icons
+
 
 ## actions
 
