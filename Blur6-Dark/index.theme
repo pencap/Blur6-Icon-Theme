@@ -1,0 +1,73 @@
+[Icon Theme]
+
+############## Description of Theme ##############
+
+Name=Blur6-Dark
+
+
+Comment=My Custom mix between Antu2 and Infinity
+
+
+############## Settings ##############
+ 
+DisplayDepth=32
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+FollowsColorScheme=true
+
+############## Fallback Theme ##############
+
+Inherits=Blur6,breeze,breeze-dark
+
+############## Extensions ##############
+
+KDE-Extensions=.png    
+
+############## Directories ##############
+ 
+Directories=apps/scalable,applets/48,apps/symbolic
+
+
+
+########## Apps
+########## ordered by size
+
+[apps/scalable]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=8
+MaxSize=256
+
+[apps/symbolic]
+Size=16
+Context=Applications
+Type=Scalable
+MinSize=8
+MaxSize=22
+
+########## Applets
+########## ordered by size
+
+#256x256 - Color for applets
+[applets/48]
+Size=48
+Context=Status
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+########## EOF
+
+
+
