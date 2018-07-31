@@ -5,9 +5,11 @@ actions
 
 *by Rogerio Souza Santos*
 
+*GNU Lesser General Public License v3.0*
+
 git: [https://store.kde.org/p/1229697/](https://store.kde.org/p/1229697/)
 
- ___
+___
 
 **La Capitaine**
 
