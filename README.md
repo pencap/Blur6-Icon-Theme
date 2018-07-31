@@ -82,6 +82,16 @@ deviantart: [https://www.deviantart.com/art-2/art/Iconos-Clima-para-xfce4-weathe
 
  ___
 
+**Helium Plasma Theme**
+
+*by mcder*
+
+*CC BY-NC-ND 4.0*
+
+openDesktop.org: [https://www.opendesktop.org/p/998869/](https://www.opendesktop.org/p/998869/)
+
+___
+
 
 ### Other Icons
 
