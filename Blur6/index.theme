@@ -27,7 +27,7 @@ FollowsColorScheme=true
 
 ############## Fallback Theme ##############
 
-Inherits=breeze,breeze-dark
+Inherits=Antu-icons,breeze,breeze-dark
 
 ############## Extensions ##############
 

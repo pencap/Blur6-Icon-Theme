@@ -13,16 +13,6 @@ git: [https://github.com/fabianalexisinostroza/Antu-classic](https://github.com/
 
 ___
 
-**Antü**
-
-*by fabianalexisino*
-
-*CC BY-NC-ND*
-
-git: [https://github.com/fabianalexisinostroza/Antu-icons](https://github.com/fabianalexisinostroza/Antu-icons)
-
-___
-
 **Infinity**
 
 *by Rogerio Souza Santos*

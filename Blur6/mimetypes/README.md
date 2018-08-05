@@ -3,35 +3,7 @@ Blur6 Icon Theme mimetypes
 
 ## mimetypes
 
-#### mimetypes 16
-
-antu
-
-* inode-directory.svg
-
-#### mimetypes 22
-
-antu
-
-* inode-directory.svg
-
-#### mimetypes 32
-
-antu
-
-* inode-directory.svg
-
-#### mimetypes 48
-
-antu
-
-* inode-directory.svg
-
 #### mimetypes 64
-
-antu
-
-* inode-directory.svg
 
 deepin
 
@@ -202,10 +174,3 @@ infinity
 * x-office-drawing.svg
 * x-office-presentation.svg
 * x-office-spreadsheet.svg
-
-
-#### mimetypes 128
-
-antu
-
-* inode-directory.svg
